@@ -5,7 +5,7 @@ Repo Contains code files for data analysis for income level using KNN
 
 You can learn about the following:
 - Load Data
-- EDA - Exploratory Data Analysis & Charting
+- EDA - Exploratory Data Analysis & Charting / skip with pandas profiling
 - Pre Processing **(Standard Scaling & One Hot Encoding- imp)**
 - Model Training
 - Finding Optimal K value
